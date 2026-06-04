@@ -1,4 +1,4 @@
-<img align="right" width="480" height="469" alt="Code Coding GIF by EscuelaDevRock" src="https://github.com/user-attachments/assets/d5ea867b-3ce9-4d6e-9d55-3832223ebea6" />
+<img align="right" width="200"  alt="Code Coding GIF by EscuelaDevRock" src="https://github.com/user-attachments/assets/d5ea867b-3ce9-4d6e-9d55-3832223ebea6" />
 # Hi, I'm Mourad Aissani 👋
 
 - 🧑🏻‍🎓 I'm a 3rd year Computer Science student at USTHB.
